@@ -7,4 +7,4 @@
 
 ***then***
 
-follow th * Build Word2Vec by CNN news corpus.ipynb* to build the word embedding 
+follow the *Build Word2Vec by CNN news corpus.ipynb* to build the word embedding 
